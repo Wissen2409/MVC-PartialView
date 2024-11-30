@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC-PartialView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dc643a2bbf987646b6f1040e56bdb829bc41e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC-PartialView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC-PartialView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
